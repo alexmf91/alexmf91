@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi there 👋, I'm Alex Muñoz</h1>
 <h3 align="center">A passionate Full Stack Developer from Spain!</h3>
