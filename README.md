@@ -21,10 +21,10 @@
 
  
  ## Technologies I Use
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> MongoDB, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> Node.js , <img src="https://pbs.twimg.com/profile_images/946432748276740096/0TXzZU7W.jpg" alt="nodejs" width="20" height="20"/>Mongoose, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/> Express
-- ⚠️ Unit Testing, <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="20" height="20"/> Jest and TDD
-- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> Figma,
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="15" height="15"/> MongoDB, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="15" height="15"/> Node.js , <img src="https://pbs.twimg.com/profile_images/946432748276740096/0TXzZU7W.jpg" alt="nodejs" width="15" height="15"/>Mongoose, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="15" height="15"/> Express
+- ⚠️ Unit Testing, <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="15" height="15"/> Jest and TDD
+- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="15" height="15"/> Git, <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="15" height="15"/> Firebase, <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="15" height="15"/> Postman
+- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="15" height="15"/> Figma,
  
 ## Current Works
  * I'm currently working on 🔭 building **Web Apps using Vue and React** and working up on polishing my skills 🌱 in **Competitive Programming**.
