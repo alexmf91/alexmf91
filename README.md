@@ -25,6 +25,9 @@
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 
 ![VUE](https://img.shields.io/badge/VUE.js-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
+![REACT](https://img.shields.io/badge/REACT-61DAFB.svg?&style=flat&logo=REACT&logoColor=white)&nbsp;
+  
+  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> React, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="15" height="15"/> Redux, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="15" height="15"/> Vue, <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuejs" width="15" height="15"/> Vuex
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="15" height="15"/> SASS, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="15" height="15"/> CSS
 
