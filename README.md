@@ -54,7 +54,7 @@
  * Getting Started with NodeJS and the MERN and MEVN Stack!!
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?uspg)
+  - :octocat: [My Resume](https://drive.google.com/)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
  
 
