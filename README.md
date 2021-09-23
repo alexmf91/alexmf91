@@ -47,7 +47,7 @@
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![MONGOOSE](https://img.shields.io/badge/MONGOOSE-F0F8F5.svg?&style=flat&logo=&logoColor=white)&nbsp;
  
-- ![UNIT_TESTING](https://img.shields.io/badge/UNIT-TESTING-FFD900.svg?&style=flat&logo=&logoColor=white)&nbsp;
+- ![UNIT_TESTING](https://img.shields.io/badge/UNIT_TESTING-FFD900.svg?&style=flat&logo=&logoColor=white)&nbsp;
 ![JEST](https://img.shields.io/badge/JEST-C21325.svg?&style=flat&logo=jest&logoColor=white)&nbsp;
 
 - ⚠️ Unit Testing, <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="15" height="15"/> Jest and TDD
