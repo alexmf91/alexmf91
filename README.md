@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js and Nuxt.js**
 - 💓 Passionate with problem solving
-- 💬 Ask me about **Vue, React, JavaScript or TypeScript**
+- 💬 Ask me about **Everything you want**
 
 <hr/>
 
@@ -79,6 +79,8 @@
 ## Other Stuff
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=alexmf91&show_icons=true&hide=[%22issues%22])
  
