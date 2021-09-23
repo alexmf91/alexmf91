@@ -47,7 +47,9 @@
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![MONGOOSE](https://img.shields.io/badge/MONGOOSE-F0F8F5.svg?&style=flat&logo=&logoColor=white)&nbsp;
  
- 
+- ![UNIT_TESTING](https://img.shields.io/badge/UNIT-TESTING-FFD900.svg?&style=flat&logo=&logoColor=white)&nbsp;
+![JEST](https://img.shields.io/badge/JEST-C21325.svg?&style=flat&logo=jest&logoColor=white)&nbsp;
+
 - ⚠️ Unit Testing, <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="15" height="15"/> Jest and TDD
 - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="15" height="15"/> Git, <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="15" height="15"/> Firebase, <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="15" height="15"/> Postman
 - <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="15" height="15"/> Figma
