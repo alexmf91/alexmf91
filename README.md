@@ -26,7 +26,7 @@
  
 - ![REACT](https://img.shields.io/badge/REACT-0088CC.svg?&style=flat&logo=REACT&logoColor=white)&nbsp;
 ![REDUX](https://img.shields.io/badge/REDUX-764ABC.svg?&style=flat&logo=REDUX&logoColor=white)&nbsp;
-![VUE](https://img.shields.io/badge/VUE.js-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
+![VUE](https://img.shields.io/badge/VUE-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![VUEX](https://img.shields.io/badge/VUEX-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
   
  
