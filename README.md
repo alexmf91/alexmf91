@@ -16,7 +16,7 @@
   <a href="mailto:alexmunoz91@gmail.com?subject=Hi%20Alex%20Muñoz"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alex-muñoz-fabregas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 
-## Programming & Other lenguages
+## Programming lenguages & Other
 
 - ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
@@ -29,10 +29,6 @@
 ![VUE](https://img.shields.io/badge/VUE.js-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![VUEX](https://img.shields.io/badge/VUEX-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
   
-  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> React, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="15" height="15"/> Redux, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="15" height="15"/> Vue, <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuejs" width="15" height="15"/> Vuex
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="15" height="15"/> SASS, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="15" height="15"/> CSS
-
  
  ## Technologies I Use
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
