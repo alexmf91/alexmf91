@@ -79,8 +79,8 @@
 ## Other Stuff
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
  
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmf91&layout=compact&true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmf91&layout=compact&true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmf91&show_icons=true&theme=radical)
-</p>
+
