@@ -41,23 +41,37 @@
 ![JEST](https://img.shields.io/badge/JEST-C21325.svg?&style=flat&logo=jest&logoColor=white)&nbsp;
 ![BDD](https://img.shields.io/badge/BDD-4479A1.svg?&style=flat&logo=bdd&logoColor=white)&nbsp;
 ![TDD](https://img.shields.io/badge/TDD-F77E1C.svg?&style=flat&logo=TDD&logoColor=white)&nbsp;
+![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;
 
 - ![Github](https://img.shields.io/badge/GITHUB-181717.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-F05032.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=POSTMAN&logoColor=black)&nbsp;
 
+- ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+![AGILE](https://img.shields.io/badge/AGILE-65633F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+  
 - ![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=flat&logo=figma&logoColor=white)&nbsp;
 
 ## Other interests
  
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
-![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
-![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
+- ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)&nbsp;
+  
+- ![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
+![PLC](https://img.shields.io/badge/PLC-00973D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
+ 
+- ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
 ![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
 ![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
-  
+
+
+
 ## Current Works
  * I'm currently working on 🔭 building **Web Apps using Vue and React** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Focused with NodeJS, MERN and MEVN Stack!!
