@@ -55,7 +55,6 @@
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=POSTMAN&logoColor=black)&nbsp;
 
-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="15" height="15"/> Git, <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="15" height="15"/> Firebase, <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="15" height="15"/> Postman
 - <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="15" height="15"/> Figma
  
 ## Current Works
