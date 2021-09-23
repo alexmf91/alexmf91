@@ -6,7 +6,7 @@
 <hr/>
 
 - 🌱 I’m currently learning **Next.js and Nuxt.js**
-
+- 💓 Passionate with problem solving
 - 💬 Ask me about **Vue, React, JavaScript or TypeScript**
 
 <hr/>
@@ -48,17 +48,15 @@
 ![MONGOOSE](https://img.shields.io/badge/MONGOOSE-F0F8F5.svg?&style=flat&logo=&logoColor=white)&nbsp;
  
  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="15" height="15"/> MongoDB, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="15" height="15"/> Node.js , <img src="https://pbs.twimg.com/profile_images/946432748276740096/0TXzZU7W.jpg" alt="nodejs" width="15" height="15"/>Mongoose, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="15" height="15"/> Express
 - ⚠️ Unit Testing, <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="15" height="15"/> Jest and TDD
 - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="15" height="15"/> Git, <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="15" height="15"/> Firebase, <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="15" height="15"/> Postman
 - <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="15" height="15"/> Figma
  
 ## Current Works
  * I'm currently working on 🔭 building **Web Apps using Vue and React** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Focused with NodeJS and the MERN and MEVN Stack!!
+ * Focused with NodeJS, MERN and MEVN Stack!!
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
  
 
