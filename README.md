@@ -23,13 +23,11 @@
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
-
+ 
+- ![REACT](https://img.shields.io/badge/REACT-0088CC.svg?&style=flat&logo=REACT&logoColor=white)&nbsp;
+![REDUX](https://img.shields.io/badge/REDUX-764ABC.svg?&style=flat&logo=REDUX&logoColor=white)&nbsp;
 ![VUE](https://img.shields.io/badge/VUE.js-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![VUEX](https://img.shields.io/badge/VUEX-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
-  
-![REACT](https://img.shields.io/badge/REACT-0088CC.svg?&style=flat&logo=REACT&logoColor=white)&nbsp;
-![REDUX](https://img.shields.io/badge/REDUX-764ABC.svg?&style=flat&logo=REDUX&logoColor=white)&nbsp;
-  
   
   
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> React, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="15" height="15"/> Redux, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="15" height="15"/> Vue, <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuejs" width="15" height="15"/> Vuex
