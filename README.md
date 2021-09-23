@@ -76,9 +76,7 @@
  * I'm currently working on 🔭 building **Web Apps using Vue and React** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Focused with NodeJS, MERN and MEVN Stack!!
  
-## Other Stuff
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
- 
+## <b>:gear: &nbsp;GitHub Statistics</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmf91&layout=compact&true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
