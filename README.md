@@ -51,7 +51,7 @@
 ![TDD](https://img.shields.io/badge/TDD-F77E1C.svg?&style=flat&logo=TDD&logoColor=white)&nbsp;
 
 - ![Github](https://img.shields.io/badge/GITHUB-181717.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GITHUB-F05032.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-F05032.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=POSTMAN&logoColor=black)&nbsp;
 
