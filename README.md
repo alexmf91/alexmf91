@@ -31,14 +31,6 @@
   
  
  ## Technologies I Use
-\
-\
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
-![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
-![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
-![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
-![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
-![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
 - ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-000019.svg?&style=flat&logo=EXPRESS&logoColor=white)&nbsp;
@@ -55,8 +47,17 @@
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=POSTMAN&logoColor=black)&nbsp;
 
-- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="15" height="15"/> Figma
+- ![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=flat&logo=figma&logoColor=white)&nbsp;
+
+## Other interests
  
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
+![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
+![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
+![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
+![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
+  
 ## Current Works
  * I'm currently working on 🔭 building **Web Apps using Vue and React** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Focused with NodeJS, MERN and MEVN Stack!!
