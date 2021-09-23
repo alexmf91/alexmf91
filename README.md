@@ -6,7 +6,7 @@
 <hr/>
 
 - 🌱 I’m currently learning **Next.js and Nuxt.js**
-- 💓 Passionate with problem solving
+- 💓 Passionate about problem solving and code, continually learning and working as a team.
 - 💬 Ask me about **Everything you want**
 
 <hr/>
@@ -76,6 +76,7 @@
  * I'm currently working on 🔭 building **Web Apps using Vue and React** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Focused with NodeJS, MERN and MEVN Stack!!
  
+  
 ## <b>:gear: &nbsp;GitHub Statistics</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmf91&layout=compact&true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
