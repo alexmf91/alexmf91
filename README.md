@@ -5,7 +5,7 @@
 
 <hr/>
 
-- 🌱 I’m currently learning **Next.js and Nuxt.js**
+- 🌱 I’m currently learning **Next.js, Nuxt.js, DevOps and everything i can**
 - 💓 Passionate about problem solving and code, continually learning and working as a team.
 - 💬 Ask me about **Everything you want**
 
