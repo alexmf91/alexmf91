@@ -5,7 +5,7 @@
 
 <hr/>
 
-- 🌱 I’m currently learning **Next.js, AWS, DevOps, WEB3, Solidity and everything i can**
+- 🌱 I’m currently learning **Next.js, AWS, DevOps, WEB3, Solidity and everything that I can**
 - 💓 Passionate about problem solving and code, continually learning and hard working.
 - 💬 Ask me about **Everything you want**
 
