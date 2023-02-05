@@ -6,8 +6,8 @@
 <hr/>
 
 - 🌱 I’m currently learning **Next.js, AWS, DevOps, WEB3, Solidity and everything that I can**
-- 💓 Passionate about problem solving and code, continually learning and hard working.
-- 💬 Ask me about **Everything you want**
+- 💓 Fueled by a passion for problem solving and a love of code, I approach every challenge with determination and a commitment to continuous learning. Driven and hardworking, I strive to deliver high-quality solutions and continuously improve my skills and knowledge.
+- 💬 Feel free to ask me **anything** and start a conversation!
 
 <hr/>
 
@@ -74,9 +74,7 @@
 
 
 ## Current Works
- * I'm currently working on 🔭 building **Web Apps using Vue and React** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Focused with NodeJS, MERN and MEVN Stack!!
- 
+ * I am currently focused on building web applications, continually honing my skills and exploring new technologies. I am also developing web3 applications with Next.js, writing smart contracts and becoming proficient in Solidity. In addition to web development, I am also dedicated to improving my competitive programming abilities.
   
 ## <b>:gear: &nbsp;GitHub Statistics</b>
 
