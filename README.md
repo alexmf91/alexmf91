@@ -20,9 +20,9 @@
 - ✨ I focus on merging impeccable design with functional coding to create exceptional digital experiences.
 - ⚡ Known for rapid learning and adaptability, I bring meticulous attention to detail and a commitment to visual and technical coherence.
 - 🤜🤛 A firm believer in teamwork, I thrive in collaborative environments and value effective communication and cooperation.
-- 💻 Keen to share knowledge, I'm always open for discussions, brainstorming, and helping my peers.
 - 🚀 Leveraging tech to solve real-world problems.
 - 🌱 Deep diving into Blockchain, Web3, Solidity, and smart contract development.
+- 💻 Keen to share knowledge, I'm always open for discussions, brainstorming, and helping my peers.
 - 💬 Let's talk about tech trends, JavaScript, React, Web3 innovations, and more.
 
 <hr/>
