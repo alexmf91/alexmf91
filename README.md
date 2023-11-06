@@ -14,9 +14,11 @@
   As a Full Stack Developer, I combine my passion for coding with a keen interest in the dynamic world of cryptocurrencies, financial services, and investments. My expertise lies in creating robust digital solutions that align with the latest trends in finance and blockchain technology.
 </p>
 
+<br>
 
-- 🌱 I’m currently enhancing my skills in Next.js and Solidity, exploring the intersections of technology, finance, and blockchain.
+
 - 💓 Fueled by a passion for problem solving and a love of code, I approach every challenge with determination and a commitment to continuous learning. Driven and hardworking, I strive to deliver high-quality solutions and continuously improve my skills and knowledge.
+- 🌱 I’m currently enhancing my skills in Next.js and Solidity, exploring the intersections of technology, finance, and blockchain.
 - 💬 Ask me about anything related to JavaScript, React, Web3, Crypto, and FinTech!
 
 <hr/>
