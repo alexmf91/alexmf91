@@ -83,10 +83,6 @@
 ![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
-
-
-## Current Works
- * I am currently focused on building web applications, continually honing my skills and exploring new technologies. I am also developing web3 applications with Next.js, writing smart contracts and becoming proficient in Solidity. In addition to web development, I am also dedicated to improving my competitive programming abilities.
   
 ## <b>:gear: &nbsp;GitHub Statistics</b>
 
