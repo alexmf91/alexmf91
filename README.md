@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi there , I'm Alex Muñoz</h1>
 <h2 align="center">🚀 Full Stack Developer | Tech Enthusiast | Web3 Explorer</h2>
-<h3 align="center">🌍 From Spain, Crafting Worldwide Digital Experiences</h3>
+<h3 align="center">🌍 Crafting Worldwide Digital Experiences</h3>
 
 
 
@@ -11,15 +11,19 @@
 <p align="center">
   <strong>About Me:</strong>
   <br>
-  As a Full Stack Developer, I combine my passion for coding with a keen interest in the dynamic world of cryptocurrencies, financial services, and investments. My expertise lies in creating robust digital solutions that align with the latest trends in finance and blockchain technology.
+  As a Full Stack Developer, I combine my passion for coding with a keen interest in the dynamic world of blockchain, cryptocurrencies, financial services, and investments. My expertise lies in creating robust digital solutions that align with the latest trends.
 </p>
 
 <br>
 
 
-- 💓 Fueled by a passion for problem solving and a love of code, I approach every challenge with determination and a commitment to continuous learning. Driven and hardworking, I strive to deliver high-quality solutions and continuously improve my skills and knowledge.
-- 🌱 I’m currently enhancing my skills in Next.js and Solidity, exploring the intersections of technology, finance, and blockchain.
-- 💬 Ask me about anything related to JavaScript, React, Web3, Crypto, and FinTech!
+- ✨ I focus on merging impeccable design with functional coding to create exceptional digital experiences.
+- ⚡ Known for rapid learning and adaptability, I bring meticulous attention to detail and a commitment to visual and technical coherence.
+- 🤜🤛 A firm believer in teamwork, I thrive in collaborative environments and value effective communication and cooperation.
+- 💻 Keen to share knowledge, I'm always open for discussions, brainstorming, and helping my peers.
+- 🚀 Leveraging tech to solve real-world problems.
+- 🌱 Deep diving into Blockchain, Web3, Solidity, and smart contract development.
+- 💬 Let's talk about tech trends, JavaScript, React, Web3 innovations, and more.
 
 <hr/>
 
